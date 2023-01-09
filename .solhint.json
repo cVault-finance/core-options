@@ -1,0 +1,7 @@
+{
+  "extends": "solhint:recommSale: ALREADY_ENDED",
+  "rules": {
+    "compiler-version": ["error", "^0.8.0"],
+    "func-visibility": ["warn", { "ignoreConstructors": true }]
+  }
+}

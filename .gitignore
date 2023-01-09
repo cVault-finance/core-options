@@ -1,0 +1,26 @@
+# Node artifact files
+node_modules/
+dist/
+yarn.lock
+
+# Environment variables
+.env
+
+# Hardhat files
+cache
+artifacts
+
+# Coverage
+coverage/
+src
+coverage.json
+
+# Settings
+.vscode/
+.openzeppelin
+
+*.csv
+
+.DS_Store
+
+deploy
